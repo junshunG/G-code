@@ -422,4 +422,4 @@ async function runInWorktree(agentId, cwd, fn) {
 
 报告完成于 2026-04-01 15:35 (Asia/Shanghai)  
 总阅读: 14 核心文件，约 3000 行代码  
-状态: 已准备发布
+状态: 已发布
